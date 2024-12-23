@@ -1,4 +1,5 @@
 This ML model predicts if a person will get heart disease or not based on various factors such as BMI, age, diabetes, etc. 
+
 We achieved 99% accuracy with our model.
 
 Evaluation Metrics :
