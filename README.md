@@ -2,6 +2,7 @@ This ML model predicts if a person will get heart disease or not based on variou
 
 We achieved 99% accuracy with our model.
 
+
 Evaluation Metrics :
 
 KNN model accuracy 0.9999870489807547
