@@ -2,6 +2,9 @@ Using KNN algorithm, we were able to predict if a person will get heart disease 
 
 Evaluation Metrics :
 KNN model accuracy 0.9999870489807547
+
 KNN model precision 0.9999859127151832
+
 KNN model recall 1.0
+
 KNN model F1 score 0.9999929563079784
