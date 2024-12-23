@@ -1,6 +1,8 @@
-Using KNN algorithm, we were able to predict if a person will get heart disease or not based on various factors such as BMI, age, diabetes, etc. We achieved 99% accuracy with our model.
+This ML model predicts if a person will get heart disease or not based on various factors such as BMI, age, diabetes, etc. 
+We achieved 99% accuracy with our model.
 
 Evaluation Metrics :
+
 KNN model accuracy 0.9999870489807547
 
 KNN model precision 0.9999859127151832
